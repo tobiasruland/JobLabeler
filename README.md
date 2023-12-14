@@ -1,1 +1,0 @@
-# statistics_for_shell
